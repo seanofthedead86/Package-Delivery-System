@@ -1,6 +1,3 @@
-# Sean Cooper
-# Student ID: 001076687
-
 from datetime import datetime
 
 from deliveryservice import run_truck_one_route, run_truck_two_route, run_truck_three_route, packageHash, truck_one, \
